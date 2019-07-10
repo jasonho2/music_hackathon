@@ -8,7 +8,7 @@ my report write up can be found here: https://docs.google.com/document/d/14E9d0J
 
 master_read_in_script takes the files from my desktop and read all files to a list of lists
 
-EDA is my exloratory data analysis script that contains visual plots and correlation coefficient calculation
+EDA is my exploratory data analysis script that contains visual plots and correlation coefficient calculation
 
 KMeans is my script for running the kmeans machine learning algorithm on the numerical attributes of the million song subset dataset
 
